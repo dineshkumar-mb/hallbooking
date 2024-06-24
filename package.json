@@ -1,0 +1,19 @@
+{
+  "name": "hallbooking",
+  "version": "1.0.0",
+  "description": "hall booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshkumar-mb/hallbooking.git"
+  },
+  "author": "dinesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshkumar-mb/hallbooking/issues"
+  },
+  "homepage": "https://github.com/dineshkumar-mb/hallbooking#readme"
+}
