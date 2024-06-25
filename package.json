@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dineshkumar-mb/hallbooking/issues"
   },
-  "homepage": "https://github.com/dineshkumar-mb/hallbooking#readme"
+  "homepage": "https://github.com/dineshkumar-mb/hallbooking#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
 }
