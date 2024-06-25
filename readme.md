@@ -107,3 +107,12 @@ APIs:
 
    - GET /customers/:customer_name
    - Response: [{customer_name, room_name, date, start_time, end_time, booking_id, booking_date, booking_status}]
+
+
+   SCREENSHOTS FOR REFERENCES:
+   ![alt text](<Screenshot 2024-06-25 155556.png>)
+    ![alt text](<Screenshot 2024-06-25 160458.png>) 
+    ![alt text](<Screenshot 2024-06-25 160341.png>) 
+    ![alt text](<Screenshot 2024-06-25 160258.png>) 
+    ![alt text](<Screenshot 2024-06-25 160115.png>) 
+    ![alt text](<Screenshot 2024-06-25 155648.png>)
