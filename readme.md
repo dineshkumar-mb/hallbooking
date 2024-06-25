@@ -4,15 +4,12 @@ This documentation is about the Hall Booking application done using NodeJS and E
  This API allows you to manage room bookings, create rooms, and retrieve booking details.
 
 
-Base URL:
+Base URL:https://hallbooking-fu42.onrender.com
 
 
 Packages installed:
 
 Express: npm i express
-Cors: npm i cors
-Nodemon: npm i nodemon
-
 
 Task: Write API for hall booking application
 
